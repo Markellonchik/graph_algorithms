@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1572854266 source:c:\markellonchik\cpplearning\lab3\graph\main.cpp
+	<GL/glut.h>
+	"graph.h"
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<utility>
+	<map>
+
+1572859323 source:c:\markellonchik\cpplearning\lab3\graph\graph.cpp
+	"graph.h"
+
+1572859340 c:\markellonchik\cpplearning\lab3\graph\graph.h
+	<cmath>
+	<vector>
+	<algorithm>
+	<queue>
+	<random>
+	<ctime>
+	<set>
+
